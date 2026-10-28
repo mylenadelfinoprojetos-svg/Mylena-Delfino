@@ -206,6 +206,14 @@ export default function App() {
 
           <div className="topright">
             <span className="version">PROTÓTIPO 1.0</span>
+            <a
+              href="/standalone-index.html"
+              download="index.html"
+              className="toplink"
+              title="Baixar arquivo index.html standalone completo"
+            >
+              ⬇ Baixar index.html
+            </a>
             <button
               type="button"
               className="toplink"
