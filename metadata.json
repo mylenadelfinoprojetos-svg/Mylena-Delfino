@@ -1,0 +1,6 @@
+{
+  "name": "Rede Fácil CEMIG - Portal do Projetista",
+  "description": "Plataforma técnica e normativa de redes de distribuição CEMIG com filtros por NDs (ND 2.1, 2.2, 2.9, 3.1, 9.3), resumos, checklists, erros frequentes e notificações de normas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
